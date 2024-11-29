@@ -1,26 +1,26 @@
 ---
 home: true
-actionText: Розпочати →
-actionLink: /intro/
+icon: home
+title: Початок
 
-footer: "ECL 2.0 Licensed | Copyright © [2024] [Andriy Ashomka]"
+heroText: "Система управління відкритими даними"
+
+tagline: Лабораторні роботи з дисципліни "Бази даних"
+
+actions:
+  - text: Розпочати
+    icon: lightbulb
+    link: ./intro/
+    type: primary
+
+footer: "ECL 2.0 Licensed | Copyright © 2024 Safronov Mykhailo |"
+
 ---
 
 
-**Виконав(-ла):** 
+**Виконав:** 
 
-студент 2-го курсу, групи ІМ-34 Мельниченко Артем (tg: @nameam24)
-
-студент 2-го курсу, групи ІМ-34 Куриленко Артем (tg: @banerr22)
-
-студент 2-го курсу, групи ІМ-34 Ашомка Андрій (tg: @AndriyAshomka)
-
-студент 2-го курсу, групи ІМ-34 Сюсюков Володимир (tg: @vova_siusiuk0v)
-
-студент 2-го курсу, групи ІМ-34 Сафронов Михайло (tg: @Mikhailo_Safronov)
-
-студент 2-го курсу, групи ІМ-34 Якимець Валерій (tg: @аrrellav)
-
+*студент 2-го курсу, групи ІМ-34*<span padding-right:5em></span> **Сафронов Михайло** [Telegram](https://t.me/Mikhailo_Safronov)
 
 **Керівник**
 
