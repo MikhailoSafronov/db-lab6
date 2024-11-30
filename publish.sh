@@ -24,4 +24,4 @@ git commit -m 'deploy'
 git push -f https://github.com/MikhailoSafronov/db-lab6.git master:gh-pages
 
 cd -
--
+
