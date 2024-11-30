@@ -1,3 +1,4 @@
+
 #!/usr/bin/env sh
 
 # abort on errors
@@ -7,11 +8,7 @@ set -e
 npm run docs:build
 
 # navigate into the build output directory
-
 cd docs/.vuepress/dist
-
-# Disable Jekyll
-touch .nojekyll
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
@@ -27,3 +24,4 @@ git commit -m 'deploy'
 git push -f https://github.com/MikhailoSafronov/db-lab6.git master:gh-pages
 
 cd -
+-
