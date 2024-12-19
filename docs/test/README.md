@@ -1,4 +1,83 @@
 # Тестування працездатності системи
 
-*В цьому розділі необхідно вказати засоби тестування, навести вихідні коди тестів та результати тестування.*
+## Запуск сервера
+
+![Запуск сервера](/guidelines/images/1.jpg)
+
+## GET /users/all
+
+![Запуск сервера](/guidelines/images/2.jpg)
+
+## POST /users
+
+![Запуск сервера](/guidelines/images/3.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/4.jpg)
+
+## Put /users/:id
+
+![Запуск сервера](/guidelines/images/5.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/6.jpg)
+
+## Delete /users/:id
+
+![Запуск сервера](/guidelines/images/7.jpg)
+
+## GET /attributes/all
+
+![Запуск сервера](/guidelines/images/14.jpg)
+
+## POST /attributes
+
+![Запуск сервера](/guidelines/images/9.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/10.jpg)
+
+## Put /attributes/:id
+
+![Запуск сервера](/guidelines/images/11.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/12.jpg)
+
+## Delete /attributes/:id
+
+![Запуск сервера](/guidelines/images/13.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/14.jpg)
+
+## GET /permissions/all
+
+![Запуск сервера](/guidelines/images/15.jpg)
+
+## POST /permissions
+
+![Запуск сервера](/guidelines/images/16.jpg)
+
+## Put /permissions/:id
+
+![Запуск сервера](/guidelines/images/17.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/18.jpg)
+
+## Delete /permissions/:id
+
+![Запуск сервера](/guidelines/images/19.jpg)
+
+## Перевірка
+
+![Запуск сервера](/guidelines/images/20.jpg)
+
 
