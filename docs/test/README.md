@@ -55,17 +55,29 @@
 ## Перевірка
 
 ![Запуск сервера](/guidelines/images/14.jpg)
-****
+
+## GET /permissions/all
+
 ![Запуск сервера](/guidelines/images/15.jpg)
-****
+
+## POST /permissions
+
 ![Запуск сервера](/guidelines/images/16.jpg)
-****
+
+## Put /permissions/:id
+
 ![Запуск сервера](/guidelines/images/17.jpg)
-****
+
+## Перевірка
+
 ![Запуск сервера](/guidelines/images/18.jpg)
-****
+
+## Delete /permissions/:id
+
 ![Запуск сервера](/guidelines/images/19.jpg)
-****
+
+## Перевірка
+
 ![Запуск сервера](/guidelines/images/20.jpg)
-*
+
 
