@@ -25,22 +25,35 @@
 ![Запуск сервера](/guidelines/images/6.jpg)
 
 ## Delete /users/:id
+
 ![Запуск сервера](/guidelines/images/7.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/8.jpg)
-****
+![Запуск сервера](/guidelines/images/14.jpg)
+
+## GET /attributes/all
+
 ![Запуск сервера](/guidelines/images/9.jpg)
-****
+
+## Перевірка
+
 ![Запуск сервера](/guidelines/images/10.jpg)
-****
+
+## POST /attributes
+
 ![Запуск сервера](/guidelines/images/11.jpg)
-****
+
+## Перевірка
+
 ![Запуск сервера](/guidelines/images/12.jpg)
-****
+
+## Put /attributes/:id
+
 ![Запуск сервера](/guidelines/images/13.jpg)
-****
+
+## Перевірка
+
 ![Запуск сервера](/guidelines/images/14.jpg)
 ****
 ![Запуск сервера](/guidelines/images/15.jpg)
