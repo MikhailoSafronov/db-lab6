@@ -2,7 +2,7 @@
 
 ## Запуск сервера
 
-![Запуск сервера](docs/images/111.jpg)
+![Запуск сервера](/docs/images/111.jpg)
 
 ## GET /users/all
 
