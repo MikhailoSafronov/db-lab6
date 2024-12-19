@@ -1,10 +1,7 @@
 # Тестування працездатності системи
 
 ## Запуск сервера
-<picture>
-  <source srcset="/images/111.jpg">
-  <img alt="Запуск сервера для GitHub Pages">
-</picture>
+![](/images/111.jpg)
 
 ![Запуск сервера](https://github.com/MikhailoSafronov/db-lab6/raw/master/docs/images/111.jpg)
 
