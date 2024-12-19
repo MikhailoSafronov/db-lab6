@@ -2,7 +2,7 @@
 
 ## Запуск сервера
 
-![Запуск сервера](https://github.com/MikhailoSafronov/db-lab6/raw/master/docs/test/images/111.jpg)
+![Запуск сервера](https://github.com/MikhailoSafronov/db-lab6/raw/master/docs/images/111.jpg)
 
 
 ## GET /users/all
