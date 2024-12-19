@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/open_data_management_system/',
+  base: '/db-lab6/',
   theme: 'cool',
   // dest: 'dist',
   head: [
