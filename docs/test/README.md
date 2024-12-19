@@ -2,7 +2,7 @@
 
 **Запуск сервера**
 
-![Запуск сервера](../guidelines/images/1.jpg)
+![Запуск сервера](/guidelines/images/1.jpg)
 
 **GET /users/all**
 
