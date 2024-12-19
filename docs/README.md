@@ -1,22 +1,3 @@
----
-home: true
-icon: home
-title: Початок
-
-heroText: "Система управління відкритими даними"
-
-tagline: Лабораторні роботи з дисципліни "Бази даних"
-
-actions:
-  - text: Розпочати
-    icon: lightbulb
-    link: ./intro/
-    type: primary
-
-footer: "ECL 2.0 Licensed | Copyright © 2024 Safronov Mykhailo |"
-
----
-
 
 **Виконав:** 
 
