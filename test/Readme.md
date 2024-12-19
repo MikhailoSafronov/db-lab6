@@ -1,1 +1,1 @@
-![Запуск сервера](images/1.png)
+![Запуск сервера](guidelines/images/1.png)
