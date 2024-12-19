@@ -156,7 +156,7 @@ CREATE TABLE RemovedAdminData (
 ```
 
 ## RESTfull сервіс для управління даними
-Підключення до бази даних
+### Підключення до бази даних
 ```
 const mysql = require('mysql2/promise');
 
@@ -173,7 +173,7 @@ const pool = mysql.createPool({
 
 module.exports = pool;
 ```
-Налаштування сервера
+### Налаштування сервера
 ```
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -201,7 +201,7 @@ app.listen(PORT, () => {
 });
 
 ```
-Маршрути для Users
+### Маршрути для Users
 ```
 const express = require('express');
 const UsersController = require('../controllers/UsersController');
@@ -233,7 +233,7 @@ router.delete('/:id', UsersController.delete);
 module.exports = router;
 
 ```
-Маршрути для Attributes
+### Маршрути для Attributes
 ```
 const express = require('express');
 const AttributesController = require('../controllers/AttributesController');
@@ -265,7 +265,7 @@ router.delete('/:id', AttributesController.delete);
 module.exports = router;
 
 ```
-Маршрути для Permissions
+### Маршрути для Permissions
 ```
 const express = require('express');
 const PermissionsController = require('../controllers/PermissionsController');
@@ -297,7 +297,7 @@ router.delete('/:id', PermissionsController.delete);
 module.exports = router;
 
 ```
-SQL запити для Users
+### SQL запити для Users
 ```
 module.exports = {
     selectAll: 'SELECT * FROM User',
@@ -307,7 +307,7 @@ module.exports = {
 };
 
 ```
-SQL запити для Attributes
+### SQL запити для Attributes
 ```
 module.exports = {
     selectAll: 'SELECT * FROM Attributes',
@@ -317,7 +317,7 @@ module.exports = {
 };
 
 ```
-SQL запити для Permissions
+### SQL запити для Permissions
 ```
 module.exports = {
     selectAll: 'SELECT * FROM Permissions',
@@ -327,7 +327,7 @@ module.exports = {
 };
 
 ```
-Контролери для Users
+### Контролери для Users
 ```
 const pool = require('../db');
 const userSQL = require('../queries/usersQueries');
@@ -377,7 +377,7 @@ class UsersController {
 module.exports = UsersController;
 
 ```
-Контролери для Attributes
+### Контролери для Attributes
 ```
 const pool = require('../db');
 const attributeSQL = require('../queries/attributesQueries');
@@ -427,7 +427,7 @@ class AttributesController {
 module.exports = AttributesController;
 
 ```
-Контролери для Permissions
+### Контролери для Permissions
 ```
 const pool = require('../db');
 const permissionSQL = require('../queries/permissionsQueries');
@@ -477,7 +477,7 @@ class PermissionsController {
 module.exports = PermissionsController;
 
 ```
-Валідатори для Users
+### Валідатори для Users
 ```
 module.exports = function validateUser(data) {
     const { id, password, username, email, role } = data;
@@ -490,7 +490,7 @@ module.exports = function validateUser(data) {
 };
 
 ```
-Валідатори для Attributes
+### Валідатори для Attributes
 ```
 module.exports = function validateAttribute(data) {
     const { id, name } = data;
@@ -501,7 +501,7 @@ module.exports = function validateAttribute(data) {
 };
 
 ```
-Валідатори для Permissions
+### Валідатори для Permissions
 ```
 module.exports = function validatePermission(data) {
     const { id, name } = data;
