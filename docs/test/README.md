@@ -23,9 +23,12 @@
 ## Перевірка
 
 ![Запуск сервера](/guidelines/images/6.jpg)
-****
+
+## Delete /users/:id
 ![Запуск сервера](/guidelines/images/7.jpg)
-****
+
+## Перевірка
+
 ![Запуск сервера](/guidelines/images/8.jpg)
 ****
 ![Запуск сервера](/guidelines/images/9.jpg)
