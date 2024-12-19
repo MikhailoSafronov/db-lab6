@@ -48,7 +48,7 @@
 
 ![Запуск сервера](/guidelines/images/12.jpg)
 
-
+## Delete /attributes/:id
 
 ![Запуск сервера](/guidelines/images/13.jpg)
 
