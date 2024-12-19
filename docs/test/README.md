@@ -2,80 +2,80 @@
 
 ## Запуск сервера
 
-![Запуск сервера](/111.jpg)
+![Запуск сервера](/docs/.vuepress/public/111.jpg)
 
 ## GET /users/all
 
-![Запуск сервера](/112.jpg)
+![Запуск сервера](/docs/.vuepress/public/112.jpg)
 
 ## POST /users
 
-![Запуск сервера](/113.jpg)
+![Запуск сервера](/docs/.vuepress/public/113.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/114.jpg)
+![Запуск сервера](/docs/.vuepress/public/114.jpg)
 
 ## Put /users/:id
 
-![Запуск сервера](/115.jpg)
+![Запуск сервера](/docs/.vuepress/public/115.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/116.jpg)
+![Запуск сервера](/docs/.vuepress/public/116.jpg)
 
 ## Delete /users/:id
 
-![Запуск сервера](/117.jpg)
+![Запуск сервера](/docs/.vuepress/public/117.jpg)
 
 ## GET /attributes/all
 
-![Запуск сервера](/124.jpg)
+![Запуск сервера](/docs/.vuepress/public/124.jpg)
 
 ## POST /attributes
 
-![Запуск сервера](/119.jpg)
+![Запуск сервера](/docs/.vuepress/public/119.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/120.jpg)
+![Запуск сервера](/docs/.vuepress/public/120.jpg)
 
 ## Put /attributes/:id
 
-![Запуск сервера](/121.jpg)
+![Запуск сервера](/docs/.vuepress/public/121.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/122.jpg)
+![Запуск сервера](/docs/.vuepress/public/122.jpg)
 
 ## Delete /attributes/:id
 
-![Запуск сервера](/123.jpg)
+![Запуск сервера](/docs/.vuepress/public/123.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/124.jpg)
+![Запуск сервера](/docs/.vuepress/public/124.jpg)
 
 ## GET /permissions/all
 
-![Запуск сервера](/125.jpg)
+![Запуск сервера](/docs/.vuepress/public/125.jpg)
 
 ## POST /permissions
 
-![Запуск сервера](/126.jpg)
+![Запуск сервера](/docs/.vuepress/public/126.jpg)
 
 ## Put /permissions/:id
 
-![Запуск сервера](/127.jpg)
+![Запуск сервера](/docs/.vuepress/public/127.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/128.jpg)
+![Запуск сервера](/docs/.vuepress/public/128.jpg)
 
 ## Delete /permissions/:id
 
-![Запуск сервера](/129.jpg)
+![Запуск сервера](/docs/.vuepress/public/129.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/130.jpg)
+![Запуск сервера](/docs/.vuepress/public/130.jpg)
