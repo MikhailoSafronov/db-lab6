@@ -4,23 +4,23 @@
 
 ![Запуск сервера](/guidelines/images/1.jpg)
 
-**GET /users/all**
+## GET /users/all
 
 ![Запуск сервера](/guidelines/images/2.jpg)
 
-**POST /users**
+## POST /users
 
 ![Запуск сервера](/guidelines/images/3.jpg)
 
-**Перевірка**
+## Перевірка
 
 ![Запуск сервера](/guidelines/images/4.jpg)
 
-**Put /users/:id**
+## Put /users/:id
 
 ![Запуск сервера](/guidelines/images/5.jpg)
 
-**Перевірка**
+## Перевірка
 
 ![Запуск сервера](/guidelines/images/6.jpg)
 ****
