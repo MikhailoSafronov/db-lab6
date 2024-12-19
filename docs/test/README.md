@@ -28,11 +28,11 @@
 
 ![Запуск сервера](/guidelines/images/7.jpg)
 
-## Перевірка
+## GET /attributes/all
 
 ![Запуск сервера](/guidelines/images/14.jpg)
 
-## GET /attributes/all
+## POST /attributes
 
 ![Запуск сервера](/guidelines/images/9.jpg)
 
@@ -40,7 +40,7 @@
 
 ![Запуск сервера](/guidelines/images/10.jpg)
 
-## POST /attributes
+## Put /attributes/:id
 
 ![Запуск сервера](/guidelines/images/11.jpg)
 
@@ -48,7 +48,7 @@
 
 ![Запуск сервера](/guidelines/images/12.jpg)
 
-## Put /attributes/:id
+
 
 ![Запуск сервера](/guidelines/images/13.jpg)
 
