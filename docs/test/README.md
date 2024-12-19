@@ -2,82 +2,80 @@
 
 ## Запуск сервера
 
-![Запуск сервера](/guidelines/images/1.jpg)
+![Запуск сервера](/111.jpg)
 
 ## GET /users/all
 
-![Запуск сервера](/guidelines/images/2.jpg)
+![Запуск сервера](/112.jpg)
 
 ## POST /users
 
-![Запуск сервера](/guidelines/images/3.jpg)
+![Запуск сервера](/113.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/4.jpg)
+![Запуск сервера](/114.jpg)
 
 ## Put /users/:id
 
-![Запуск сервера](/guidelines/images/5.jpg)
+![Запуск сервера](/115.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/6.jpg)
+![Запуск сервера](/116.jpg)
 
 ## Delete /users/:id
 
-![Запуск сервера](/guidelines/images/7.jpg)
+![Запуск сервера](/117.jpg)
 
 ## GET /attributes/all
 
-![Запуск сервера](/guidelines/images/14.jpg)
+![Запуск сервера](/124.jpg)
 
 ## POST /attributes
 
-![Запуск сервера](/guidelines/images/9.jpg)
+![Запуск сервера](/119.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/10.jpg)
+![Запуск сервера](/120.jpg)
 
 ## Put /attributes/:id
 
-![Запуск сервера](/guidelines/images/11.jpg)
+![Запуск сервера](/121.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/12.jpg)
+![Запуск сервера](/122.jpg)
 
 ## Delete /attributes/:id
 
-![Запуск сервера](/guidelines/images/13.jpg)
+![Запуск сервера](/123.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/14.jpg)
+![Запуск сервера](/124.jpg)
 
 ## GET /permissions/all
 
-![Запуск сервера](/guidelines/images/15.jpg)
+![Запуск сервера](/125.jpg)
 
 ## POST /permissions
 
-![Запуск сервера](/guidelines/images/16.jpg)
+![Запуск сервера](/126.jpg)
 
 ## Put /permissions/:id
 
-![Запуск сервера](/guidelines/images/17.jpg)
+![Запуск сервера](/127.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/18.jpg)
+![Запуск сервера](/128.jpg)
 
 ## Delete /permissions/:id
 
-![Запуск сервера](/guidelines/images/19.jpg)
+![Запуск сервера](/129.jpg)
 
 ## Перевірка
 
-![Запуск сервера](/guidelines/images/20.jpg)
-
-
+![Запуск сервера](/130.jpg)
