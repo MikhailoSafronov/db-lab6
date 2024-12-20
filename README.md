@@ -6,9 +6,7 @@
 ## Виконавець
 *студент 2-го курсу, групи ІМ-34* **Сафронов Михайло** [Telegram](https://t.me/Mikhailo_Safronov)
 
-## Посилання
-- [GitHub Repository](https://github.com/MikhailoSafronov/db-lab6)
-- [GitHub Pages](https://mikhailosafronov.github.io/db-lab6/)
+
 
 ### Керівник
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент* **Андрій БОЛДАК** 
